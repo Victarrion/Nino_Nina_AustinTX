@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Richard Slattery</origin>
+        <origin>Nam Jeong Choi</origin>
+        <pubdate>20210414</pubdate>
+        <title>Estimated Annual Recharge to the Edwards Aquifer in the San Antonio Area, by Stream Basin or Ungaged Area, 1934–2020</title>
+        <geoform>tab-delimited text file (.txt)</geoform>
+        <pubinfo>
+          <pubplace>Denver, Colo.</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P9QNWA5Y</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Edwards aquifer in south-central Texas is one of the most permeable and productive aquifers in the United States and is the major source of public water supply for Bexar, Comal, Hays, Medina, and Uvalde Counties. The Edwards aquifer also supplies large quantities of water to agriculture, business, and industry in the region. The major artesian springs of the Edwards aquifer provide water for recreational activities, businesses, and downstream users, and provide habitat for several threatened or endangered species.
+
+The areas pertinent to the recharge process are the catchment area and the recharge zone. The catchment area consists of the parts of river basins upstream from the recharge zone. Streams in the catchment area generally gain water (hence the term "catchment area") as they flow toward the recharge zone. As the streams flow across the recharge zone, which is essentially the outcrop of the Edwards aquifer, they lose substantial amounts of water through infiltration into the highly permeable, faulted and fractured rocks of the outcrop. Direct infiltration of rainfall also occurs in the interstream areas of the recharge zone.
+
+Annual recharge estimates are based on data collected from a network of U.S. Geological Survey (USGS) streamflow-gaging stations at sites upstream and downstream from the recharge zone and on assumptions related to applying runoff characteristics from gaged areas to ungaged areas (Puente, 1978). Runoff is affected by the distribution of rainfall, which historically has been estimated from a network of rain gages, some operated by the USGS, some by the Edwards Aquifer Authority (EAA), and some by the National Weather Service. Since 2004, the distribution of rainfall has been estimated from calibrated NEXRAD (NEXt-generation weather RADar) data provided by the EAA. The annual estimation of recharge to the Edwards aquifer is part of a continuing program of the USGS in cooperation with the Edwards Aquifer Authority.
+
+This data release is formatted as a tab-delimited file (.txt) that contains the estimated annual recharge to the Edwards Aquifer for 1934 through 2020. The estimated annual recharge is divided into eight major river basins of the catchment area and for some of those basins, will also include estimates of recharge from adjacent ungaged areas.</abstract>
+      <purpose>Data are used by water resource managers for water resource planning and management.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1934</begdate>
+          <enddate>2020</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Annually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-100.4700</westbc>
+        <eastbc>-97.7900</eastbc>
+        <northbc>30.1400</northbc>
+        <southbc>29.1700</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>groundwater flow</themekey>
+        <themekey>hydrogeology</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:6069e862d34edc0435c35f62</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System</placekt>
+        <placekey>Nueces River</placekey>
+        <placekey>Frio River</placekey>
+        <placekey>Dry Frio River</placekey>
+        <placekey>Sabinal River</placekey>
+        <placekey>Seco Creek</placekey>
+        <placekey>Hondo Creek</placekey>
+        <placekey>Medina River</placekey>
+        <placekey>Salado Creek</placekey>
+        <placekey>Cibolo Creek</placekey>
+        <placekey>Guadalupe River</placekey>
+        <placekey>Blanco River</placekey>
+        <placekey>Real County</placekey>
+        <placekey>Uvalde County</placekey>
+        <placekey>Medina County</placekey>
+        <placekey>Bexar County</placekey>
+        <placekey>Comal County</placekey>
+        <placekey>Hays County</placekey>
+      </place>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Edwards Aquifer Recharge Zone</placekey>
+        <placekey>Edwards Aquifer Catchment Area</placekey>
+        <placekey>San Antonio, Texas</placekey>
+        <placekey>08190500 W Nueces River near Brackettville, Tex.</placekey>
+        <placekey>08190000 Nueces River at Laguna, Tex.</placekey>
+        <placekey>08192000 Nueces River below Uvalde, Tex.</placekey>
+        <placekey>08195000 Frio River at Concan, Tex.</placekey>
+        <placekey>08196000 Dry Frio River near Reagan Wells, Tex.</placekey>
+        <placekey>08197500 Frio River below Dry Frio River near Uvalde, Tex.</placekey>
+        <placekey>08198000 Sabinal River near Sabinal, Tex.</placekey>
+        <placekey>08198500 Sabinal River at Sabinal, Tex.</placekey>
+        <placekey>08201500 Seco Creek at Miller Rh near Utopia, Tex.</placekey>
+        <placekey>08202700 Seco Creek at Rowe Rh near D'Hanis, Tex.</placekey>
+        <placekey>08200000 Hondo Creek near Tarpley, Tex.</placekey>
+        <placekey>08179500 Medina Lake near San Antonio, Tex.</placekey>
+        <placekey>08178700 Salado Creek at Loop 410, San Antonio, Tex.</placekey>
+        <placekey>08183900 Cibolo Creek near Boerne, Tex.</placekey>
+        <placekey>08185000 Cibolo Creek at Selma, Tex.</placekey>
+        <placekey>08168500 Guadalupe River above Comal River at New Braunfels, Tex.</placekey>
+        <placekey>08171000 Blanco River at Wimberley, Tex.</placekey>
+        <placekey>08171300 Blanco River near Kyle, Tex.</placekey>
+        <placekey>08173000 Plum Creek near Luling, Tex.</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Oklahoma-Texas Water Science Center Public Information Officer</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1505 Ferguson Lane</address>
+          <city>Austin</city>
+          <state>Texas</state>
+          <postal>78754</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>(512) 927-3500</cntvoice>
+        <cntemail>gs-w-otpublicinfo@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>In cooperation with the Edwards Aquifer Authority</datacred>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <pubdate>2021</pubdate>
+            <title>USGS Water Data for Texas</title>
+            <geoform>Tabular dataset</geoform>
+            <pubinfo>
+              <pubplace>http://waterdata.usgs.gov/tx/nwis/nwis</pubplace>
+              <publish>National Water Information System</publish>
+            </pubinfo>
+            <onlink>http://dx.doi.org/10.5066/F7P55KJN</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Streamflow</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>19340101</begdate>
+              <enddate>20201231</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>2020</srccurr>
+        </srctime>
+        <srccitea>Stream discharge</srccitea>
+        <srccontr>Provides streamflow data used to estimate recharge as described by Puente, 1978.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Edwards Aquifer Authority.</origin>
+            <pubdate>2021</pubdate>
+            <title>Calibrated Rain Maps</title>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>San Antonio, Tex.</pubplace>
+              <publish>Edwards Aquifer Authority</publish>
+            </pubinfo>
+            <onlink>https://www.edwardsaquifer.org/science-and-maps/aquifer-data/rainfall-data-and-rain-gauge-network/monthly-calibrated-rain-maps</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Rainfall</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20200101</begdate>
+              <enddate>20201231</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>2020</srccurr>
+        </srctime>
+        <srccitea>Rainfall</srccitea>
+        <srccontr>Provides rainfall record that is applied in the calculation of Edwards aquifer recharge estimates as described by Puente, 1978.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Celso Puente</origin>
+            <pubdate>1978</pubdate>
+            <title>Method of estimating natural recharge to the Edwards Aquifer in the San Antonio area, Texas</title>
+            <geoform>publication</geoform>
+            <onlink>https://doi.org/10.3133/wri7810</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1978</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Puente, 1978</srccitea>
+        <srccontr>Provides method of calculating recharge.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Annual recharge estimates are calculated using methods described by Puente, 1978.  The annual recharge estimates are based on data collected from a network of U.S. Geological Survey streamflow-gaging stations at sites upstream and downstream from the recharge zone and on assumptions related to applying runoff characteristics from gaged areas to ungaged areas (Puente, 1978).</procdesc>
+        <srcused>Puente, 1978</srcused>
+        <procdate>20210401</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>The recharge estimates can be affected by the distribution of rainfall, which historically has been estimated from a network of rain gages, some operated by the U.S. Geological Survey, some by the Edwards Aquifer Authority, and some by the National Weather Service. Since 2004, the distribution of rainfall has been estimated from calibrated NEXRAD (NEXt-generation weather RADar) data provided by the Edwards Aquifer Authority and is utilized in the calculation of recharge as described by Puente, 1978.</procdesc>
+        <srcused>Rainfall</srcused>
+        <procdate>20210310</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Edwards_Aquifer_annual_recharge.txt</enttypl>
+        <enttypd>The .txt file contains estimated annual recharge to the Edwards Aquifer by eight defined river basins for 1934 through 2020.</enttypd>
+        <enttypds>Project defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>The calendar year for which the recharge to the Edwards Aquifer was estimated.</attrdef>
+        <attrdefs>Producer defined.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1934</rdommin>
+            <rdommax>2020</rdommax>
+            <attrunit>Year</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Basin_1</attrlabl>
+        <attrdef>Estimated annual recharge to the Edwards Aquifer from the Nueces and West Nueces River Basins.</attrdef>
+        <attrdefs>Producer defined.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>8.6</rdommin>
+            <rdommax>481.9</rdommax>
+            <attrunit>thousands of acre-feet.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Basin_2</attrlabl>
+        <attrdef>Estimated annual recharge to the Edwards Aquifer from the Frio and Dry Frio River Basins which includes adjacent ungaged areas.</attrdef>
+        <attrdefs>Producer defined.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4.20</rdommin>
+            <rdommax>586.9</rdommax>
+            <attrunit>thousands of acre-feet.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Basin_3</attrlabl>
+        <attrdef>Estimated annual recharge to the Edwards Aquifer from the Sabinal River Basin which includes adjacent ungaged areas.</attrdef>
+        <attrdefs>Producer defined.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.55</rdommin>
+            <rdommax>223.8</rdommax>
+            <attrunit>thousands of acre-feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Basin_4</attrlabl>
+        <attrdef>Estimated annual recharge to the Edwards Aquifer from Seco and Hondo Creek Basins which includes adjacent ungaged areas.</attrdef>
+        <attrdefs>Producer defined.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.0</rdommin>
+            <rdommax>566.1</rdommax>
+            <attrunit>thousands of acre-feet.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Basin_5</attrlabl>
+        <attrdef>Estimated annual recharge to the Edwards Aquifer from the Medina River Basin which consists entirely of losses from Medina and Diversion Lake.</attrdef>
+        <attrdefs>Producer defined.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6.3</rdommin>
+            <rdommax>104</rdommax>
+            <attrunit>thousands of acre-feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Basin_6</attrlabl>
+        <attrdef>Estimated annual recharge to the Edwards Aquifer from the area between the Medina River and Cibolo Creek Basins.</attrdef>
+        <attrdefs>Producer defined.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.40</rdommin>
+            <rdommax>290.6</rdommax>
+            <attrunit>thousands of acre-feet.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Basin_7</attrlabl>
+        <attrdef>Estimated annual recharge to the Edwards Aquifer from the Cibolo and Dry Comal Creek Basins.</attrdef>
+        <attrdefs>Producer defined.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.20</rdommin>
+            <rdommax>447.8</rdommax>
+            <attrunit>thousands of acre-feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Basin_9</attrlabl>
+        <attrdef>Estimated annual recharge to the Edwards Aquifer from the Blanco River Basin which includes adjacent ungaged areas.</attrdef>
+        <attrdefs>Producer defined.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>8.20</rdommin>
+            <rdommax>228.9</rdommax>
+            <attrunit>thousands of acre-feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total</attrlabl>
+        <attrdef>Total estimated annual recharge to the Edwards Aquifer.</attrdef>
+        <attrdefs>Producer defined.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>43.7</rdommin>
+            <rdommax>2485.7</rdommax>
+            <attrunit>thousands of acre-feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Basin_inputs.txt</enttypl>
+        <enttypd>The .txt file provides a summary of the basins; drainage areas included within the basins; and streamflow gages used to estimate recharge within the basins, along with the location of the streamflow gages.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Basin_ID</attrlabl>
+        <attrdef>Basin identifier</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Basin_1</edomv>
+            <edomvd>Drainage area includes the Nueces and West Nueces River.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Basin_2</edomv>
+            <edomvd>Drainage area includes the Frio and Dry Frio Rivers and the adjacent ungaged areas of the Leona River and Blanco Creek.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Basin_3</edomv>
+            <edomvd>Drainage area includes the Sabinal River and the adjacent ungaged areas of Little Blanco, Nolton, and Ranchero Creeks.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Basin_4</edomv>
+            <edomvd>Drainage area includes Seco and Hondo Creeks and the adjacent ungaged areas of Parkers, Live Oak, Verde, and Quihi Creeks.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Basin_5</edomv>
+            <edomvd>Recharge to Edwards aquifer from Medina River consists entirely of losses from Medina and Diversion Lake System.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Basin_6</edomv>
+            <edomvd>Drainage area includes San Geronimo, Leon, and Salado Creeks, and other smaller tributaries.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Basin_7</edomv>
+            <edomvd>Drainage area of Cibolo Creek and Dry Comal Creek.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Basin_9</edomv>
+            <edomvd>Drainage area includes the Blanco River and the adjacent ungaged drainage areas of Sink, Purgatory, York, and Alligator Creeks.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Drainage_Area</attrlabl>
+        <attrdef>Drainage areas represented within the basin and contribute recharge to the Edwards aquifer.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Nueces-West Nueces River Basin</edomv>
+            <edomvd>Drainage area includes the Nueces and West Nueces Rivers.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Frio-Dry Frio River Basin</edomv>
+            <edomvd>Drainage area includes the Frio and Dry Frio Rivers and the adjacent ungaged drainage areas of the Leona River and Blanco Creek.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Sabinal River Basin</edomv>
+            <edomvd>Drainage area includes the Sabinal River and the adjacent ungaged drainage areas of Little Blanco, Nolton, and Ranchero Creeks.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Area between the Sabinal River and Medina River Basin</edomv>
+            <edomvd>Drainage area includes Seco and Hondo Creeks and the adjacent ungaged drainage areas of Parkers, Live Oak, Verde, and Quihi Creeks.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Medina River Basin</edomv>
+            <edomvd>Recharge to Edwards aquifer from Medina River Basin consists entirely of losses from Medina and Diversion Lake System.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Area between the Medina River Basin and Cibolo-Dry Comal Creek Basin</edomv>
+            <edomvd>Drainage area includes San Geronimo, Leon, and Salado Creeks, and other smaller tributaries.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Cibolo Creek and Dry Comal Creek Basin</edomv>
+            <edomvd>Drainage area includes the Cibolo and Dry Comal Creeks.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Blanco River Basin</edomv>
+            <edomvd>Drainage area includes the Blanco River and the adjacent ungaged drainage areas of Sink, Purgatory, York, and Alligator Creeks.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>USGS_Station_number</attrlabl>
+        <attrdef>US Geological Survey Station Number.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>8167000</rdommin>
+            <rdommax>8202700</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>USGS_Station_Name</attrlabl>
+        <attrdef>US Geological Survey Station Number</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Unique 8- digit identification number.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Latitude</attrlabl>
+        <attrdef>Latitude in decimal degrees (NAD 83).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>29.12385307</rdommin>
+            <rdommax>29.99438080</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Longitude</attrlabl>
+        <attrdef>Longitude in decimal degrees (NAD 83).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-100.2391667</rdommin>
+            <rdommax>-97.6791667</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>The catchment area which provides recharge to the Edwards aquifer is comprised of nine major drainage areas. These areas include the Nueces and West Nueces River basins (Basin 1); the Frio and Dry Frio River basins, which also includes the adjacent drainage areas of the Leona River and Blanco Creek (Basin 2); the Sabinal River basin (Basin 3), which also includes the adjacent areas of Little Blanco, Nolton, and Ranchero Creeks; the area between the Sabinal and Medina River basins which includes Seco and Hondo Creeks and an ungaged area between Hondo Creek and the Medina River basin (Basin 4); the Medina River basin (Basin 5); the area between the Medina River and the Cibolo Creek basin which is drained by the San Geronimo, Leon, and Salado Creeks, plus other smaller tributaries (Basin 6); the Cibolo Creek and Dry Comal Creek Basins (Basin 7); the Guadalupe River Basin (Basin 8); and the Blanco River Basin which also includes Sink, Purgatory, York, and Alligator Creeks (Basin 9) (Puente, 1978). 
+
+The basins included in the data release are titled Basin_1 through Basin_9. However, the data release does not include a contribution of recharge from Basin_8, the Guadalupe River basin. Estimated annual recharge to the Edwards aquifer from the Guadalupe River basin is considered negligible and therefore not calculated. The basins are defined and described in more detail in the report, Puente, 1978, Method of estimating natural recharge to the Edwards aquifer in the San Antonio area, Texas: U.S. Geological Survey Water-Resources Investigations Report 78–10, 34 p.</eaover>
+      <eadetcit>Slattery, R., and Choi, N., 2021, Estimated Annual Recharge to the Edwards Aquifer in the San Antonio Area, by Stream Basin or Ungaged Area, 1934–2020: U.S. Geological Survey data release, https://doi.org/10.5066/P9QNWA5Y.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>GS ScienceBase</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9QNWA5Y</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20210414</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Richard Slattery</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntpos>Hydrologic Technician</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>5563 DeZavala, Ste. 290</address>
+          <city>San Antonio</city>
+          <state>Texas</state>
+          <postal>78249</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>Phone (210) 691-9224</cntvoice>
+        <cntemail>rnslatte@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
