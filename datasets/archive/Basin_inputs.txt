@@ -1,0 +1,36 @@
+Basin_ID	Drainage_Area	USGS_Station_number	USGS_Station_Name	Latitude	Longitude
+Basin_1	Nueces-West Nueces River Basin	8190000	"Nueces River at Laguna , Texas"	29.42856679	-99.997287
+Basin_1	Nueces-West Nueces River Basin	8190500	"West Nueces River near Brackettville, Texas"	29.48108333	-100.2391667
+Basin_1	Nueces-West Nueces River Basin	8192000	"Nueces River below Uvalde, Texas"	29.12385307	-99.8947822
+Basin_2	Frio-Dry Frio River Basin	8195000	"Frio River at Concan, Texas"	29.48856496	-99.7047756
+Basin_2	Frio-Dry Frio River Basin	8196000	"Dry Frio River near Reagan Wells, Texas"	29.50467576	-99.7814452
+Basin_2	Frio-Dry Frio River Basin	8197500	"Frio River below Dry Frio River near Uvalde, Texas"	29.2457934	-99.6744978
+Basin_3	Sabinal River Basin	8198000	"Sabinal River near Sabinal, Texas"	29.4910644	-99.4928241
+Basin_3	Sabinal River Basin	8198500	"Sabinal River at Sabinal, Texas"	29.31430556	-99.4804722
+Basin_4	Area between the Sabinal and Medina River Basin	8201500	"Seco Creek at Miller Ranch near Utopia, Texas"	29.573284	-99.4030997
+Basin_4	Area between the Sabinal and Medina River Basin	8202700	"Seco Creek at Rowe Ranch near Dhanis, Texas"	29.37078917	-99.2878185
+Basin_4	Area between the Sabinal and Medina River Basin	8200000	"Hondo Creek near Tarpley, Texas"	29.57003056	-99.2476889
+Basin_4	Area between the Sabinal and Medina River Basin	8200720	"Hondo Creek at SH 173 near Hondo, Texas"	29.3761111	-99.1166667
+Basin_4	Area between the Sabinal and Medina River Basin	8178880	"Medina River at Bandera, Texas"	29.72383537	-99.070035
+Basin_5	Medina River Basin	8179500	"Medina Lake near San Antonio, Texas"	29.54022964	-98.9339186
+Basin_6	Area between the Medina River Basin and Cibolo-Dry Comal Creek Basin	8178700	"Salado Creek at Loop 410 at San Antonio, Texas"	29.5160633	-98.4311271
+Basin_6	Area between the Medina River Basin and Cibolo-Dry Comal Creek Basin	8178880	"Medina River at Bandera, Texas"	29.72383537	-99.070035
+Basin_6	Area between the Medina River Basin and Cibolo-Dry Comal Creek Basin	8167000	"Guadalupe river at Comfort, Texas"	29.96523889	-98.8971667
+Basin_6	Area between the Medina River Basin and Cibolo-Dry Comal Creek Basin	8167500	"Guadalupe River near Spring Branch, Texas"	29.8604957	-98.3836275
+Basin_7	Cibolo Creek and Dry Comal Creek Basin	8167000	"Guadalupe river at Comfort, Texas"	29.96523889	-98.8971667
+Basin_7	Cibolo Creek and Dry Comal Creek Basin	8167500	"Guadalupe River near Spring Branch, Texas"	29.8604957	-98.3836275
+Basin_7	Cibolo Creek and Dry Comal Creek Basin	8183890	"Cibolo Creek at Cibolo Nature Center near Boerne, Texas"	29.78113056	-98.7128306
+Basin_7	Cibolo Creek and Dry Comal Creek Basin	8185000	"Cibolo Creek at Selma, Texas"	29.5941166	-98.3111242
+Basin_7	Cibolo Creek and Dry Comal Creek Basin	8167800	"Guadalupe River at Sattler, Texas"	29.85910758	-98.1800106
+Basin_7	Cibolo Creek and Dry Comal Creek Basin	8168000	"Hueco Springs near New Braunfels, Texas"	29.7593893	-98.140009
+Basin_7	Cibolo Creek and Dry Comal Creek Basin	8168500	"Guadalupe River abv Comal River at New Braunfels, Texas"	29.7149465	-98.1100083
+Basin_7	Cibolo Creek and Dry Comal Creek Basin	8168710	"Comal Spring Flow, New Braunfels, Texas"	29.70605788	-98.1225085
+Basin_7	Cibolo Creek and Dry Comal Creek Basin	8169000	"Comal River at New Braunfels, Texas"	29.70640833	-98.1222083
+Basin_9	Blanco River Basin	8167800	"Guadalupe River at Sattler, Texas"	29.85910758	-98.1800106
+Basin_9	Blanco River Basin	8168000	"Hueco Springs near New Braunfels, Texas"	29.7593893	-98.140009
+Basin_9	Blanco River Basin	8168500	"Guadalupe River abv Comal River at New Braunfels, Texas"	29.7149465	-98.1100083
+Basin_9	Blanco River Basin	8168710	"Comal Spring Flow, New Braunfels, Texas"	29.70605788	-98.1225085
+Basin_9	Blanco River Basin	8169000	"Comal River at New Braunfels, Texas"	29.70640833	-98.1222083
+Basin_9	Blanco River Basin	8171000	"Blanco River at Wimberly, Texas"	29.9943808	-98.088898
+Basin_9	Blanco River Basin	8171300	"Blanco River near Kyle, Texas"	29.97938297	-97.9100051
+Basin_9	Blanco River Basin	8172400	"Plum Creek at Lockhart, Texas"	29.92299833	-97.6791667
