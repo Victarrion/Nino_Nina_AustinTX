@@ -1,8 +1,3 @@
-# Nino Nina AustinTX
-Project-1 Of the UT Austin Data Analysis bootcamp. In this project we focus on analysing the effect that el Nino and La Nina have across the Austin metro area (Travis and Williamson county) and how it affects:
-1. Temperature
-2. Rainfall
-
    ## How El Nino and La Nina affect the recharge of Edwards aquifers?
 Considering the data available in data.austintexas.gov and waterdata.usgs.gov to get the datasets of the basin recharge and Water consumption according to the Customer Class​ we analized how El Nino/Nina effect impact the water recharge and Water consumption in Austin Metro. 
 
@@ -67,7 +62,4 @@ plt.show()
 According to the data, the customer class with the highest water consumption is the Residencial with an average consumption of 27 million gallons per year, and a median of 20 million. The lowest water consumption is Irrigation-Residential with an average of 93 000 gallons per year. 
  The year with the lowest consumption in Residential, customer class was 2016. In Multi-Family the lowest consumption was in 2020.
  
-5. Water levels in Lake Travis
-6. Electrical cost in kWh
 
-Results:
