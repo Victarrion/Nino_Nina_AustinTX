@@ -30,9 +30,9 @@ According to the results, the years with the most outstanding recharges in the a
 
 ## Water consumption according to the Customer Class
 
-  -Generate a summary statistics  using the local government data table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen
+  -Generate a summary statistics  using the local government data table of mean, median, variance, standard deviation, and SEM of the Customer Class for each regimen
   - Use groupby and summary statistical methods to calculate the following : 
-   - mean, median, variance, standard deviation, and SEM of the tumor volume. 
+   - mean, median, variance, standard deviation, and SEM of the Total Gallons. 
 
 summary_df2 = water_complete_complete.groupby('Customer Class')['Total Gallons'].agg(['mean', 'median', 'var', 'std','sem'])
 summary_df2
