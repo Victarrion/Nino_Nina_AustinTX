@@ -11,8 +11,9 @@ Project-1 Of the UT Austin Data Analysis bootcamp. In this project we focus on a
 6. Electrical cost in KWh
 
 
-Our Methodology this data we Did the Following:
+#Our Methodology 
 
+For this data we did the following:
 1. Temperature
    
 3. Rainfall
@@ -25,4 +26,4 @@ Pulled historical water levels going back to 1940 from the Lower Colorado River 
 
 8. Electrical cost in kWh:
 
-Results:
+#Results:
